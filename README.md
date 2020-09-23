@@ -1,4 +1,4 @@
-### Hello World 👋
+![hb](https://github.com/hos4na/hos4na/blob/master/eu.gif)
 
 Estudante de Sistemas de Informação, apaixonada por tecnologia e desenvolvimento.
 Tenho muito foco, paixão e curiosidade por aprender novas tecnologias.
