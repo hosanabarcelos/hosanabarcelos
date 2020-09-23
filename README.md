@@ -18,8 +18,8 @@ Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
             type="Front-end"
             status="Em formação"
         />
+   
     );
-    
     }
 
     export default EaiDev;
