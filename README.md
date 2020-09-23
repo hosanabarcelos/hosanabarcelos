@@ -24,20 +24,3 @@ Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
 
     export default Dev;
 
-
-
-
-    não gosto, eu amo: {
-
-    café ☕
-    código < />
-    chocolate 🍫
-    música 🎵
-    livros 📖
-
-    }
-
-
-
-
-
