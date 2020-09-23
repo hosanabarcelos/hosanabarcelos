@@ -8,17 +8,25 @@ Tenho muito foco, paixão e curiosidade por aprender novas tecnologias.
 
 import github from 'github';
 
+
 function EaiDev() {
+
     return (
+    
+    
           < Programadora
             name="Hosana"
             type="Front-end"
             status="Em formação"
         />
     )
+    
 }
 
+
 export default EaiDev;
+
+
 
 
 não gosto, eu amo: {
