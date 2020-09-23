@@ -1,15 +1,14 @@
 ### Hello World 👋
 
-//Sou estudante de Sistemas de Informação, apaixonada por tecnologia e desenvolvimento.
+Sou estudante de Sistemas de Informação, apaixonada por tecnologia e desenvolvimento.
 Tenho muito foco, paixão e curiosidade por aprender novas tecnologias.
-
-//Tenho experiência com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
-
-
-import github from 'github';
+Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
 
 
-function EaiDev() {
+
+
+    import github from 'github';
+    function EaiDev() {
 
     return (
     
@@ -21,23 +20,22 @@ function EaiDev() {
         />
     )
     
-}
+    }
+
+    export default EaiDev;
 
 
-export default EaiDev;
 
 
+    não gosto, eu amo: {
 
+    café ☕
+    código < />
+    chocolate 🍫
+    música 🎵
+    livros 📖
 
-não gosto, eu amo: {
-
-café ☕
-código < />
-chocolate 🍫
-música 🎵
-livros 📖
-
-}
+    }
 
 
 
