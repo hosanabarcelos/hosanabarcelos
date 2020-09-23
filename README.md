@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Sou estudante de Sistemas de Informação, apaixonada por tecnologia e desenvolvimento.
+Estudante de Sistemas de Informação, apaixonada por tecnologia e desenvolvimento.
 Tenho muito foco, paixão e curiosidade por aprender novas tecnologias.
 Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
 
