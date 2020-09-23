@@ -8,7 +8,7 @@ Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
 
 
     import github from 'github';
-    function EaiDev() {
+    function Dev() {
 
     return (
     
@@ -22,7 +22,7 @@ Sou experiente com as tecnologias HTML, CSS, JavaScript, Python e PostgreSQL.
     );
     }
 
-    export default EaiDev;
+    export default Dev;
 
 
 
