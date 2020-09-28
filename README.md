@@ -18,7 +18,7 @@ Sou experiente com as tecnologias __HTML, CSS, JavaScript, Python e PostgreSQL__
          return (
     
     
-          < Programadora
+          < Desenvolvedora
             name="Hosana"
             type="Front-end"
             status="Em formação"
