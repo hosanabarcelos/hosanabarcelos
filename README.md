@@ -1,4 +1,4 @@
-<img src="https://github.com/hos4na/hos4na/blob/master/name.png" width="400"/> <img src="https://github.com/hos4na/hos4na/blob/master/hello.gif" width="250"/>
+<img src="https://github.com/hos4na/hos4na/blob/master/name.png" width="380"/> <img src="https://github.com/hos4na/hos4na/blob/master/hi.gif" width="310"/>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
