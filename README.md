@@ -1,10 +1,13 @@
 <img src="https://github.com/hos4na/hos4na/blob/master/name.png" width="380"/> <img src="https://github.com/hos4na/hos4na/blob/master/hi.gif" width="310"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hos4na&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
-- 👩‍🎓💻 I'm currently studying **Systems of information**.
+- 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS and React Native**.
 - 💜 Interests: Coffee ☕️, Music 🎵, Sleep 💤.
 
