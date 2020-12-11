@@ -1,4 +1,4 @@
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/apres.gif" width="400"/> 
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/apres.gif" width="350"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
