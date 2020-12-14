@@ -1,4 +1,4 @@
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="380"/> <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="360"/> 
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="400"/> <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="350"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -36,22 +36,6 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
       width="40"
       height="40"
     />
