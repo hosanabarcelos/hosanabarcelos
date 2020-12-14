@@ -1,4 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=660099&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="300" /> <img src = "https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="280" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=660099&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
