@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="300"/></p>
- <p align="center">
-  <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="250"/></p>
+  <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="400"/> <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="250"/>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=660099&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
