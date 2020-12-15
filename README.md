@@ -4,13 +4,13 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### ✨ Abstract
 
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS and React Native**.
 - 💜 Interests: Coffee ☕️, Music 🎵, Sleep 💤.
 
-### Languages and Tools
+### ✨ Languages and Tools
 
 <br/>
 
@@ -44,6 +44,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact :
+### ✨ Contact :
 
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hosanabarceloscandido@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/) 
+- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/hosanabarcelos)](https://github.com/hosanabarcelos) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hosanabarceloscandido@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/) 
