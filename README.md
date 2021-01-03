@@ -22,6 +22,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
@@ -30,10 +31,10 @@
       height="40"
     />
   </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank">
+  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
