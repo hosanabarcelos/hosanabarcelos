@@ -2,7 +2,7 @@
   <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="400"/> <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/interface.png" width="250"/>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
 
 ### ✨ Abstract
 
