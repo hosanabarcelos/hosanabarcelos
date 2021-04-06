@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/text.png" width="400"/> <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200"/>
-</p>
+
 
 ## Hi there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
 
@@ -9,6 +7,8 @@
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and React Native**.
 - 💜 Interests: Coffee ☕️, Music 🎵, Sleep 💤.
+
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200" align="right"/>
 
 ### ✨ Languages and Tools
 
@@ -67,7 +67,7 @@
 
 <p> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=660099&theme=dracula&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=660099&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=660099&theme=dracula&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) 
 
 </p>
 
