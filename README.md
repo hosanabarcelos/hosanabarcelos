@@ -6,7 +6,7 @@
 
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and React Native**.
-- 💜 Interests: Coffee ☕️, Music 🎵, Sleep 💤.
+- ⭐ Interests: I ❤️️ ☕!
 
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200" align="right"/>
 
@@ -72,7 +72,7 @@
 
 ### ✨ Contact :
 
-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/hosanabarcelos)](https://github.com/hosanabarcelos) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hosanabarceloscandido@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/) 
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hosanabarceloscandido@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/) 
 
 <p> <br>
 
@@ -82,7 +82,7 @@
 
 
 <p align = "center"> 
-  ✨ Contagem de visitantes <br>
+  ✨ Profile views <br>
   <img src = "https://profile-counter.glitch.me/hosanabarcelos/count.svg" </p>
   
 
