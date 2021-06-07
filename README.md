@@ -7,12 +7,11 @@
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and React Native**.
 - ⭐ Interests: I ❤️️ ☕!
+</br>
 
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200" align="right"/>
 
 ### ✨ Languages and Tools
-
-<br/>
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img
@@ -59,6 +58,14 @@
     />
   </a> 
   
+  <a href="https://www.figma.com/" > 
+    <img 
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+     alt="figma" 
+     width="40" 
+     height="40"/> 
+  </a>
+  
    <a href="https://git-scm.com/">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
@@ -67,14 +74,23 @@
       height="40"
     />
   </a> 
-  
-</p>
 
-### ✨ Contact :
 
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hosanabarceloscandido@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/) 
+### ✨ Contact 
 
-<p> <br>
+  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/">
+    <img
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
+      alt="linkedin" />
+  </a> 
+
+  <a href="mailto:hosanabarceloscandido@gmail.com" > 
+    <img 
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" 
+     alt="gmail" /> 
+  </a>
+
+<p> </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs)
 
