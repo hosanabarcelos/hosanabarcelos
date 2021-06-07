@@ -96,9 +96,8 @@
 
 </p>
 
-
+<!--
 <p align = "center"> 
   ✨ Profile views <br>
   <img src = "https://profile-counter.glitch.me/hosanabarcelos/count.svg" </p>
-  
-
+-->
