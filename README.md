@@ -5,7 +5,7 @@
 ### ✨ Abstract
 
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
-- 🌱 Learning more about and studying: **NodeJS, ReactJS and React Native**.
+- 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
 - ⭐ Interests: I ❤️️ ☕!
 </br>
 
@@ -66,14 +66,6 @@
      height="40"/> 
   </a>
   
-   <a href="https://git-scm.com/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a> 
 
 
 ### ✨ Contact 
