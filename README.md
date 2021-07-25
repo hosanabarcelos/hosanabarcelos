@@ -6,7 +6,7 @@
 
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
-- ⭐ Interests: I ❤️️ ☕!
+-  I ❤️️ ☕!
 </br>
 
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200" align="right"/>
