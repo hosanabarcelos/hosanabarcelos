@@ -4,7 +4,7 @@
 
 ### ✨ Abstract
 
-- 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Front-end professional.
+- 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Software Developer.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
 -  I ❤️️ ☕!
 </br>
