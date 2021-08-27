@@ -7,7 +7,7 @@
 - 👩‍🎓💻 I'm currently studying **Information Systems** and I am looking to be a Software Developer.
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
 -  I ❤️️ ☕!
-</br>
+
 
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="100" align="right"/>
 </br>
