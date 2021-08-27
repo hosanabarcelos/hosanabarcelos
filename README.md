@@ -9,16 +9,15 @@
 -  I ❤️️ ☕!
 </br>
 
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="200" align="right"/>
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="100" align="right"/>
 
-### ✨ Languages and Tools
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
   
@@ -26,8 +25,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
   
@@ -35,8 +34,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a> 
   
@@ -44,8 +43,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a> 
   
@@ -53,8 +52,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a> 
   
@@ -62,30 +61,45 @@
     <img 
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
      alt="figma" 
-     width="40" 
-     height="40"/> 
+     width="30" 
+     height="30"/> 
   </a>
   
+  ##
+  
+ <div>
+  <a href="https://github.com/hosanabarcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs"/>
+</div>
 
-
-### ✨ Contact 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/">
     <img
-      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
-      alt="linkedin" />
+      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"
+      alt="linkedin" 
+      width="40"
+      height="40"   
+      />
   </a> 
-
-  <a href="mailto:hosanabarceloscandido@gmail.com" > 
+  
+   <a href="https://www.behance.net/hosanabarcelos" > 
     <img 
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" 
-     alt="gmail" /> 
+     src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" 
+     alt="behance"
+     width="40"
+     height="40"
+     /> 
   </a>
-
-<p> </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs)
-
+ 
+   <a href="mailto:hosanabarceloscandido@gmail.com" > 
+    <img 
+      src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" 
+     alt="gmail" 
+     width="40"
+     height="40"
+     /> 
+  </a>
 </p>
 
 <!--
