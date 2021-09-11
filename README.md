@@ -8,7 +8,7 @@
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
 -  I ❤️️ ☕!
 </br>
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/alien.gif" width="100" align="right"/>
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/gitimage.png" width="200" align="right"/>
 </br>
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
@@ -68,11 +68,13 @@
   
  <div>
   <a href="https://github.com/hosanabarcelos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs"/>
 </div>
 
-<p align="center">
+   ##
+ 
+<p>
   <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/">
     <img
       src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"
