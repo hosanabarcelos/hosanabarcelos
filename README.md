@@ -68,8 +68,8 @@
   
  <div>
   <a href="https://github.com/hosanabarcelos">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=3f2b96&theme=dracula"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=3f2b96&theme=dracula&show_icons=true&hide=prs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=A435F0&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=A435F0&theme=dracula&show_icons=true&hide=prs"/>
 </div>
 
    ##
