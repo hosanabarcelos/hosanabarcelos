@@ -93,7 +93,7 @@
      /> 
   </a>
  
-   <a href="mailto:hosanabarceloscandido@gmail.com" > 
+   <a href="mailto:hosanabarcelosdeveloper@gmail.com" > 
     <img 
       src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" 
      alt="gmail" 
