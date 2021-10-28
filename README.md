@@ -8,7 +8,7 @@
 - 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
 -  I ❤️️ ☕!
 </br>
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/gitimage.png" width="200" align="right"/>
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/gitimage.png" width="180" align="right"/>
 </br>
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
