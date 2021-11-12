@@ -3,7 +3,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" width="250em" height="250em" align="right"/>
 
-- 👩‍🎓💻 I'm currently studying **Information Systems** (6/8) at University [Unigranrio](http://www.unigranrio.com.br/)
+- 👩‍🎓💻 I'm currently studying **Information Systems** (6/8) at [Unigranrio](http://www.unigranrio.com.br/) university
 
 - 🌱 Learning more about and studying **NodeJS, ReactJS, VueJS**
 
