@@ -1,107 +1,43 @@
 
 
-## Hi there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" width="250em" height="250em" align="right"/>
 
-### ✨ Abstract
+- 👩‍🎓💻 I'm currently studying **Information Systems** (6/8) at University [Unigranrio](http://www.unigranrio.com.br/)
 
-- 👩‍🎓💻 I'm currently studying **Information Systems** (6/8) and I am looking to be a Software Developer.
-- 🌱 Learning more about and studying: **NodeJS, ReactJS and UI Design**.
--  I ❤️️ ☕!
-</br>
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/gitimage.png" width="180" align="right"/>
-</br>
+- 🌱 Learning more about and studying **NodeJS, ReactJS, VueJS**
 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-      alt="html"
-      width="30"
-      height="30"
-    />
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-      alt="css"
-      width="30"
-      height="30"
-    />
-  </a>
-  
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="30"
-      height="30"
-    />
-  </a> 
-  
-   <a href="https://www.postgresql.org">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-      alt="postgresql"
-      width="30"
-      height="30"
-    />
-  </a> 
-  
-   <a href="https://pt-br.reactjs.org">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      alt="react"
-      width="30"
-      height="30"
-    />
-  </a> 
-  
-  <a href="https://www.figma.com/" > 
-    <img 
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-     alt="figma" 
-     width="30" 
-     height="30"/> 
-  </a>
-  
-  ##
-  
- <div>
-  <a href="https://github.com/hosanabarcelos">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanabarcelos&layout=compact&langs_count=5&title_color=A435F0&theme=dracula"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&title_color=A435F0&theme=dracula&show_icons=true&hide=prs"/>
-</div>
+-  I ❤️️ ☕ 
+<br>
 
-   ##
- 
-<p>
-  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"
-      alt="linkedin" 
-      width="40"
-      height="40"   
-      />
-  </a> 
-  
-   <a href="https://www.behance.net/hosanabarcelos" > 
-    <img 
-     src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" 
-     alt="behance"
-     width="40"
-     height="40"
-     /> 
-  </a>
- 
-   <a href="mailto:hosanabarcelosdeveloper@gmail.com" > 
-    <img 
-      src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" 
-     alt="gmail" 
-     width="40"
-     height="40"
-     /> 
-  </a>
+## 🛠  Technologies
+
+![HTML](https://img.shields.io/badge/-HTML-1e0e2c?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1e0e2c?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e0e2c?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-1e0e2c?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-1e0e2c?style=flat&logo=react)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e0e2c?style=flat&logo=postgresql)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-1e0e2c?style=flat&logo=figma)&nbsp;
+
+## ⚙️ GitHub Analytics
+<br>
+
+<p align="center">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&hide=prs,issues&text_color=F4C9B0" alt="hosana stats"/>
 </p>
+
+##
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-hosanabarcelos-1e0e2c?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.behance.net/hosanabarcelos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-hosanabarcelos-1e0e2c?style=flat&logo=behance" alt="behance"/>
+</a>
+</p>
+ 
 
 <!--
 <p align = "center"> 
