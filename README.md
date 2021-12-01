@@ -17,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e0e2c?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-1e0e2c?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-1e0e2c?style=flat&logo=react)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e0e2c?style=flat&logo=postgresql)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-1e0e2c?style=flat&logo=figma)&nbsp;
 
 ## ⚙️ GitHub Analytics
