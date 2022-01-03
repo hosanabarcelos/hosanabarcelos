@@ -1,7 +1,7 @@
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" width="280em" height="280em" align="right"/>
+## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<img width="280em" height="280em" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" />
 
 - 👩‍🎓💻 I'm currently studying **Information Systems** (7/8) at [Unigranrio](http://www.unigranrio.com.br/) university
 
@@ -28,7 +28,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hosana%20Barcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hosana-barcelos-8206731a1/)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/)&nbsp; 
 [![Behance Badge](https://img.shields.io/badge/-Hosana%20Barcelos-003ecb?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/hosanabarcelos)](https://www.behance.net/hosanabarcelos)&nbsp; 
-[![Spotify Badge](https://img.shields.io/badge/Hosana-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/22ccfwaooxerys62gztptlriy?si=5962465bfd964dba)&nbsp;
 
 
 <!--
