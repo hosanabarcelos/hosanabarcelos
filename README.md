@@ -1,9 +1,8 @@
 
-
 ## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <img width="280em" height="280em" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" />
 
-- 👩‍🎓💻 I'm currently studying **Information Systems** (7/8) at [Unigranrio](http://www.unigranrio.com.br/) university
+- 👩‍🎓💻 I'm currently studying **Information Systems** 
 
 - 🌱 Learning more about and studying **ReactJS, VueJS**
 
@@ -22,7 +21,7 @@
 ## ⚙️ GitHub Analytics
 <br>
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&hide=prs,issues&text_color=F4C9B0" alt="hosana stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&text_color=F4C9B0&include_all_commits=true" alt="hosana stats"/>
 
 ##
 
