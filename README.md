@@ -2,12 +2,13 @@
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there! 
 <img width="300rem" height="300rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500.gif" />
 <br>
-
-🌱 ⠀I’m learning more about and studying **VueJS, ReactJS** <br> 
+ 
 
 👩‍🎓 ⠀I'm currently studying **Information Systems** <br>
 
 💻 ⠀I'm currently working with **Software Development** <br>
+
+🌱 ⠀I’m learning more about and studying **VueJS, ReactJS** <br>
 
 🇧🇷⠀I'm from **Brazil** <br> 
 
