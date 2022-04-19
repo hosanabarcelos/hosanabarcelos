@@ -1,36 +1,53 @@
 
-## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-<img width="280em" height="280em" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/githubcat.gif?raw=true" />
-
-- 👩‍🎓💻 I'm currently studying **Information Systems** 
-
-- 🌱 Learning more about and studying **ReactJS, VueJS**
-
--  I ❤️️ ☕ 
+### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there! 
+<img width="300rem" height="300rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500.gif" />
 <br>
 
-## 🛠  Technologies
+🌱 ⠀I’m learning more about and studying **VueJS, ReactJS** <br> 
 
-![HTML](https://img.shields.io/badge/-HTML-1e0e2c?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1e0e2c?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e0e2c?style=flat-square&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-1e0e2c?style=flat-square&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-1e0e2c?style=flat-square&logo=react)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-1e0e2c?style=flat-square&logo=figma)&nbsp;
+👩‍🎓 ⠀I'm currently studying **Information Systems** <br>
 
-## ⚙️ GitHub Analytics
+💻 ⠀I'm currently working with **Software Development** <br>
+
+🇧🇷⠀I'm from **Brazil** <br> 
+
+ ⚡⠀I ❤️️ ☕ 
+ <br> 
+ <br>
+ 
+ <a href="https://discord.com/users/556515660675416068" target="_blank"><img src="https://img.shields.io/badge/-Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://t.me/hosanabarcelostech" target="_blank"><img src="https://img.shields.io/badge/-Telegram-31a8e0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="mailto:hosanabarcelosdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.behance.net/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Behance-0054f7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<br> 
+<br>
+---
+
+### 🛠  Technologies
 <br>
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&text_color=F4C9B0&include_all_commits=true" alt="hosana stats"/>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ##
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hosana%20Barcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hosana-barcelos-8206731a1/)](https://www.linkedin.com/in/hosana-barcelos-8206731a1/)&nbsp; 
-[![Behance Badge](https://img.shields.io/badge/-Hosana%20Barcelos-003ecb?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/hosanabarcelos)](https://www.behance.net/hosanabarcelos)&nbsp; 
+<div align="center">
+<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_alien.gif" width="300rem" align="left"/>
+<br>  
+<br>  
+<img width="500rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&text_color=F4C9B0&include_all_commits=true" alt="hosana stats"/>
+</div>
+<br>
+
+## 
 
 
-<!--
-<p align = "center"> 
-  ✨ Profile views <br>
-  <img src = "https://profile-counter.glitch.me/hosanabarcelos/count.svg" </p>
--->
+  ```js
+  console.log(README.md);
+  ```
+
