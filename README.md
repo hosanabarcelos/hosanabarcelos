@@ -1,6 +1,6 @@
 
-### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there! 
-<img width="300rem" height="300rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500.gif" />
+### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> ⠀Hi there! 
+<img width="380rem" height="380rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" />
 <br>
  
 
@@ -14,9 +14,9 @@
 
  ⚡⠀I ❤️️ ☕ <br><br> 
  
-##
 
-### 🛠  Technologies
+
+### 🛠 ⠀Technologies
 <br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,10 +29,10 @@
 ##
 
 <div align="center">
-<img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_alien.gif" width="300rem" align="left"/>
 <br>  
 <br>  
-<img width="500rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=2bfe00&theme=nightowl&text_color=5800df&title_color=FFFFFF&include_all_commits=true" alt="hosana stats"/>
+<img width="450rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=94d5db&theme=nightowl&text_color=5800df&title_color=FFFFFF&include_all_commits=true" alt="hosana stats"
+/>
 </div>
 <br>
 
