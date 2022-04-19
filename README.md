@@ -1,6 +1,6 @@
 
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> ⠀Hi there! 
-<img width="380rem" height="380rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" />
+<img width="350rem" height="350rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" />
 <br>
  
 
