@@ -17,7 +17,6 @@
  
  <a href="https://discord.com/users/556515660675416068" target="_blank"><img src="https://img.shields.io/badge/-Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://t.me/hosanabarcelostech" target="_blank"><img src="https://img.shields.io/badge/-Telegram-31a8e0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- <a href="mailto:hosanabarcelosdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.behance.net/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Behance-0054f7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 <br> 
