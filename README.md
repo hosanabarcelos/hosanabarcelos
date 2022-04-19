@@ -40,7 +40,7 @@
 <img src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_alien.gif" width="300rem" align="left"/>
 <br>  
 <br>  
-<img width="500rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FFFFFF&theme=nightowl&text_color=F4C9B0&include_all_commits=true" alt="hosana stats"/>
+<img width="500rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=2bfe00&theme=nightowl&text_color=5800df&title_color=FFFFFF&include_all_commits=true" alt="hosana stats"/>
 </div>
 <br>
 
