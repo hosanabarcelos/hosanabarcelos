@@ -1,6 +1,6 @@
 
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="20px"> ⠀Hi there! 
-<img width="350rem" height="350rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" />
+<!-- <img width="350rem" height="350rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" /> -->
 <br>
  
 
@@ -28,18 +28,18 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
 <br>  
 <br>  
 <img width="450rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=94d5db&theme=nightowl&text_color=5800df&title_color=FFFFFF&include_all_commits=true" alt="hosana stats"
 />
 </div>
-<br>
+<br> -->
 
 
 <br>
 
-<div align="center"> 
+<div> 
  <a href="https://discord.com/users/556515660675416068" target="_blank"><img src="https://img.shields.io/badge/-Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://t.me/hosanabarcelostech" target="_blank"><img src="https://img.shields.io/badge/-Telegram-31a8e0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
