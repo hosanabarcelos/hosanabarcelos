@@ -1,4 +1,4 @@
-## <p><img width="400px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/my-readme-banner.svg" /></p>
+## <p align="center"><img width="320px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/my-readme-banner.svg" /></p>
 
 <br />
 
@@ -14,10 +14,10 @@ I'm a passionate front-end developer focused on JavaScript frameworks.
 - 🖤 I breathe music and coffee;
 - 💬 Ask me about anything [here](https://t.me/hsndev);
 
-<div>
+<div align="center">
 <br>  
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FF007F&theme=nightowl&hide_border=true&text_color=F2F2F2&title_color=8D00DA&include_all_commits=true" alt="Hosana Github stats" /> 
-<!-- <img width="420px" src="https://streak-stats.demolab.com?user=hosanabarcelos&theme=dark&hide_border=true&fire=8D00DA&sideNums=F2F2F2&sideLabels=FF007F&ring=8D00DA&currStreakNum=F2F2F2&currStreakLabel=FF007F&dates=F2F2F2&background=011627" alt="Hosana Github stats" /> -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FF007F&theme=nightowl&hide_border=true&text_color=F2F2F2&title_color=8D00DA&include_all_commits=true" alt="Hosana Github stats" /> 
+<img width="420px" src="https://streak-stats.demolab.com?user=hosanabarcelos&theme=dark&hide_border=true&fire=8D00DA&sideNums=F2F2F2&sideLabels=FF007F&ring=8D00DA&currStreakNum=F2F2F2&currStreakLabel=FF007F&dates=F2F2F2&background=011627" alt="Hosana Github stats" />
 </div>
 
 <br>
