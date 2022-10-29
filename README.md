@@ -1,48 +1,51 @@
+## <p align="center"><img width="400px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/my-readme-banner.svg" /></p>
 
-### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="20px"> ⠀Hi there! 
-<!-- <img width="350rem" height="350rem" align="right" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/animation_500_spaceman.gif" /> -->
-<br>
- 
+<br />
 
-👩‍🎓 ⠀I'm currently studying **Information Systems** <br>
+I'm a passionate front-end developer focused on JavaScript frameworks. 
 
-💻 ⠀I'm currently working with **Software Development** <br>
+#### About me 
 
-🌱 ⠀I’m learning more about and studying **VueJS, ReactJS** <br>
+- 📍 I’m from Brazil;
+- 🎓 Graduated in Information Systems;
+- 💼 Front-end developer;
+- 🌱 I’m learning more about and studying Jest and TypeScript;
+- 🔎 I'm interested in learning more about Angular, Docker and UI/UX Design;
+- 🖤 I breathe music and coffee;
+- 💬 Ask me about anything [here](https://t.me/hsndev);
 
-🇧🇷⠀I'm from **Brazil** <br> 
-
- ⚡⠀I ❤️️ ☕ <br><br> 
- 
-
-
-### 🛠 ⠀Technologies
-<br>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-
-##
-
-<!-- <div align="center">
+<div align="center">
 <br>  
-<br>  
-<img width="450rem" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=94d5db&theme=nightowl&text_color=5800df&title_color=FFFFFF&include_all_commits=true" alt="hosana stats"
-/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=FF007F&theme=nightowl&hide_border=true&text_color=F2F2F2&title_color=8D00DA&include_all_commits=true" alt="Hosana Github stats" /> 
+<img width="480px" src="https://streak-stats.demolab.com?user=hosanabarcelos&theme=dark&hide_border=true&fire=8D00DA&sideNums=F2F2F2&sideLabels=FF007F&ring=8D00DA&currStreakNum=F2F2F2&currStreakLabel=FF007F&dates=F2F2F2&background=011627" alt="Hosana Github stats" />
 </div>
-<br> -->
-
 
 <br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Skills
+
+<div>
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs">
+   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
+   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma">
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> Contact
 
 <div> 
- <a href="https://discord.com/users/556515660675416068" target="_blank"><img src="https://img.shields.io/badge/-Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="https://t.me/hsndev" target="_blank"><img src="https://img.shields.io/badge/-Telegram-31a8e0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.behance.net/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Behance-0054f7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-011627?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
+ <a href="mailto:hosanabarcelosdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-011627?style=for-the-badge&logo=gmail&logoColor=ea4f42" /></a>
+ <a href="https://t.me/hsndev" target="_blank"><img src="https://img.shields.io/badge/Telegram-011627?style=for-the-badge&logo=telegram&logoColor=2481cc" /></a>
+ <a href="https://www.behance.net/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/Behance-011627?style=for-the-badge&logo=behance&logoColor=003ecb" /></a>
 </div>
 
