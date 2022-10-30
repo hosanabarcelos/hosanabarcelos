@@ -1,4 +1,4 @@
-## <p align="center"><img width="320px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/animations/my-readme-banner.svg" /></p>
+## <p align="center"><img width="200px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/images/my-readme-banner.svg" /></p>
 
 <br />
 
