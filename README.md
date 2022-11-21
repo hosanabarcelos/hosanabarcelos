@@ -1,6 +1,5 @@
 <!-- <p align="center"><img width="200px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/images/my-readme-banner.svg" /></p> -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="20" height="20" />
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="20" height="20" /> -->
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=3000&pause=300&color=8D00DA&multiline=true&width=435&lines=Hello!+I'm+Hosana;I+work+with+software+development.+)](https://git.io/typing-svg) 
 
@@ -21,7 +20,7 @@ I'm a passionate front-end developer focused on JavaScript frameworks.
 <div>
   
 <br>  
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=8fd966&theme=nightowl&hide_border=true&text_color=F2F2F2&title_color=8D00DA&include_all_commits=true" alt="Hosana Github stats" /> 
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&icon_color=000000&theme=nightowl&hide_border=true&text_color=F2F2F2&title_color=8D00DA&include_all_commits=true" alt="Hosana Github stats" /> 
 <!-- <img width="420px" src="https://streak-stats.demolab.com?user=hosanabarcelos&theme=dark&hide_border=true&fire=8D00DA&sideNums=F2F2F2&sideLabels=FF007F&ring=8D00DA&currStreakNum=F2F2F2&currStreakLabel=FF007F&dates=F2F2F2&background=011627" alt="Hosana Github stats" /> -->
 
 </div>
