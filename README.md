@@ -1,7 +1,7 @@
 <!-- <p align="center"><img width="200px" src="https://github.com/hosanabarcelos/hosanabarcelos/blob/master/images/my-readme-banner.svg" /></p> -->
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="20" height="20" /> -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=14&duration=3000&pause=300&color=8D00DA&multiline=true&width=435&lines=Hello!+I'm+Hosana;I+work+with+software+development.+)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=14&duration=3000&pause=300&color=8D00DA&multiline=true&width=435&lines=Hello!+I'm+Hosana;I+work+with+software+development.+)](https://github.com/hosanabarcelos) 
 
 <br />
 
