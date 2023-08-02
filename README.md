@@ -48,8 +48,9 @@ I'm a passionate software developer focused on JavaScript frameworks.
 
 <div> 
  <a href="https://www.linkedin.com/in/hosana-barcelos-8206731a1/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-011627?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
- <a href="mailto:hosanabarcelosdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-011627?style=for-the-badge&logo=gmail&logoColor=ea4f42" /></a>
+   <a href="https://medium.com/@hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/Medium-011627?style=for-the-badge&logo=medium&logoColor=FFFFFF" /></a>
  <a href="https://t.me/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/Telegram-011627?style=for-the-badge&logo=telegram&logoColor=2481cc" /></a>
  <a href="https://www.behance.net/hosanabarcelos" target="_blank"><img src="https://img.shields.io/badge/Behance-011627?style=for-the-badge&logo=behance&logoColor=003ecb" /></a>
+  <a href="mailto:hosanabarcelosdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-011627?style=for-the-badge&logo=gmail&logoColor=ea4f42" /></a>
 </div>
 
