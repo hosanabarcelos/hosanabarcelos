@@ -23,7 +23,7 @@ I'm a passionate software developer focused on JavaScript frameworks.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true" alt="Hosana Github stats" /> 
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show=reviews,prs_merged_percentage&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true" alt="Hosana Github stats" /> 
 <!-- <img width="420px" src="https://streak-stats.demolab.com?user=hosanabarcelos&theme=dark&hide_border=true&fire=8D00DA&sideNums=F2F2F2&sideLabels=FF007F&ring=8D00DA&currStreakNum=F2F2F2&currStreakLabel=FF007F&dates=F2F2F2&background=011627" alt="Hosana Github stats" /> -->
 
 </div>
