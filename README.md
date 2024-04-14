@@ -5,7 +5,7 @@ Graduated in Information Systems with experience in software development and met
 - 📍 I’m from Brazil;
 - 🎓 Information Systems;
 - 💼 I currently work with software engineering dealing with all parties involved;
-- 🔎 Visit my portfolio at [hosana.me](https://www.hosana.me/);
+- 🔎 Visit my portfolio at <a href="https://www.hosana.me/" target="_blank">hosana.me</a>;
 - 💬  Ask me about Vue, React, Jest, Docker and Agile.
 
 <div>
@@ -23,22 +23,22 @@ Graduated in Information Systems with experience in software development and met
 <a href="mailto:contato.hosanabarcelos@gmail.com">
   <img align="left" alt="Hosana's Gmail" width="24px" src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" />
 </a>
-<a href="https://www.linkedin.com/in/hosanabarcelos/">
+<a href="https://www.linkedin.com/in/hosanabarcelos/" target="_blank">
   <img align="left" alt="Hosana's Linkedin" width="24px" src="https://img.icons8.com/?size=256&id=xuvGCOXi8Wyg&format=png" />
 </a>
-<a href="https://t.me/hosanabarcelos">
+<a href="https://t.me/hosanabarcelos" target="_blank">
   <img align="left" alt="Hosana's Telegram" width="24px" src="https://img.icons8.com/?size=256&id=63306&format=png" />
 </a>
-<a href="https://gitlab.com/hosanabarcelos">
+<a href="https://gitlab.com/hosanabarcelos" target="_blank">
   <img align="left" alt="Hosana's Gitlab" width="24px" src="https://img.icons8.com/?size=256&id=34886&format=png" />
 </a>
-<a href="https://medium.com/@hosanabarcelos">
+<a href="https://medium.com/@hosanabarcelos" target="_blank">
   <img align="left" alt="Hosana's Medium" width="24px" src="https://img.icons8.com/?size=256&id=35858&format=png" />
 </a>
-<a href="https://www.behance.net/hosanabarcelos">
+<a href="https://www.behance.net/hosanabarcelos" target="_blank">
   <img align="left" alt="Hosana's Behance" width="24px" src="https://img.icons8.com/?size=256&id=13655&format=png" />
 </a>
-<a href="https://discordapp.com/users/556515660675416068">
-  <img align="left" alt="Hosana's Behance" width="24px" src="https://img.icons8.com/?size=256&id=65646&format=png" />
+<a href="https://discordapp.com/users/556515660675416068" target="_blank">
+  <img align="left" alt="Hosana's Discord" width="24px" src="https://img.icons8.com/?size=256&id=65646&format=png" />
 </a>
 
