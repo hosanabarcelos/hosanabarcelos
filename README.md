@@ -4,9 +4,9 @@ Graduated in Information Systems with experience in software development and met
 
 - 📍 I’m from Brazil;
 - 🎓 Information Systems;
-- 💼 I currently work with software engineering dealing with all parties involved;
+- 💼 I currently work as a software engineer and team leader;
 - 🔎 Visit my portfolio at <a href="https://www.hosana.me/" target="_blank">hosana.me</a>;
-- 💬  Ask me about Vue, React, Jest, Docker and Agile.
+- 💬  Ask me about Vue, Jest, Docker and Agile.
 
 <div>
   
@@ -14,8 +14,8 @@ Graduated in Information Systems with experience in software development and met
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show=reviews,prs_merged_percentage&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true" alt="Hosana Github stats" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosanabarcelos&theme=github_dark&layout=compact&langs_count=6&hide_border=true">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=hosanabarcelos&show=prs_merged_percentage&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true" alt="Hosana Github stats" /> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosanabarcelos&theme=github_dark&layout=compact&langs_count=6&hide_border=true">
 
 <br>
 <br>
